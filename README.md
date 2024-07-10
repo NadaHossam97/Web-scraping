@@ -1,4 +1,6 @@
-#Project Description
+#Extracring Data using web scraping and API requests
+
+##Project Description
 This project involves creating a Python script that utilizes web scraping and API requests to extract data about the top 10 largest economies of the world in terms of GDP (Gross Domestic Product) in Billion USD. The script will then process this data using Pandas and Numpy libraries, manipulate it to extract the required information, and finally save the results to a CSV file.
 
 ##Objectives
